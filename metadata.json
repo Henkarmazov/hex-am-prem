@@ -1,0 +1,6 @@
+{
+  "name": "Alight Motion Premium Activation",
+  "description": "Portal aktivasi Alight Motion Premium modern dan minimalis untuk kirim link dan verifikasi akun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
